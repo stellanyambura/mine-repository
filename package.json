@@ -1,0 +1,19 @@
+{
+  "name": "mine-repository",
+  "version": "1.0.0",
+  "description": "first code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stellanyambura/mine-repository.git"
+  },
+  "author": "Stella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stellanyambura/mine-repository/issues"
+  },
+  "homepage": "https://github.com/stellanyambura/mine-repository#readme"
+}
